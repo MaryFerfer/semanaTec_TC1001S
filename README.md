@@ -1,2 +1,4 @@
-#Colaboradores:
+# Colaboradores:
+Marifer Cantú
+Mario Jauregui
 
